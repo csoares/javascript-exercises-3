@@ -1,5 +1,5 @@
 function calculateArrayObject(arrObj) {
-    // TODO
+  // TODO
 }
 
 module.exports = calculateArrayObject;

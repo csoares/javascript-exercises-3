@@ -1,6 +1,5 @@
 function calculateObject(obj) {
-    // TODO
+  // TODO
 }
-
 
 module.exports = calculateObject;

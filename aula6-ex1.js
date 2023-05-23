@@ -1,5 +1,5 @@
 function calculate(a, b, c) {
-    // TODO
+  // TODO
 }
 
 module.exports = calculate;
